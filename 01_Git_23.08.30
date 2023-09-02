@@ -73,6 +73,9 @@ git checkout branchName
 //合并分支
 git merge branchName
 
+//冲突合并
+//当合并的不同分支在同一处做了不同修改时会发生冲突，这时需要手动合并
+
 
 
 
